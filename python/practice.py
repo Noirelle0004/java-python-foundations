@@ -1,10 +1,4 @@
-name="Baobao"
-print("Hello,Python!")
-print("My name is",name)
-
-age="44"
-print("Hello,Python!")
+name="baobao"
+print("My name is",name,".")
+age=36
 print("I'm",age,"year old.")
-
-place="shanghai"
-print("I'm from",place)
